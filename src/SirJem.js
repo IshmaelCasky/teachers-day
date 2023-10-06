@@ -38,7 +38,7 @@ function SirJem() {
     const message = "Madayaw and Mabuhay! Happy Teacher's Day, Sir Jem! We wanted to say thanks for being an incredible teacher. Your way of teaching is awesome. You make learning interesting, and your classes feel like exciting stories. You're great at explaining things, and your passion for what you teach is contagious. We love how you make us part of the discussions. You encourage us to think and share our ideas, which helps us learn better. You're not just giving us information; you're inspiring us to love learning. Thanks for being an awesome teacher and more. Have a fantastic Teacher's Day, and know that we appreciate you a lot!";
 
     return (
-        <div className="h-full bg-[url('./assets/vintage.jpg')] w-full">
+        <div className="h-full w-full">
             
             <div className='flex flex-col justify-center items-center'>
                 <img src={sir} alt="" className="rounded-2xl w-[60%] sm:w-[50%] md:w-[40%] lg:w-[30%] xl:w-[20%] m-5"/>
